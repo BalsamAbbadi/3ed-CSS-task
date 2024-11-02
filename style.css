@@ -1,0 +1,56 @@
+.big_parent {
+    display: inline-block;
+}
+
+
+img{
+    margin: 10px;
+}
+
+.phone{
+    display: inline-block;
+    width: 20%;
+    border-color: darkgray;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.price1{
+    display: inline-block;
+    margin-right: 20px;
+    color: green;
+    font-size: 18px;
+}
+
+.price2{
+    display: inline-block;
+    margin-right: 20px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.ProductPrice div{
+    display: inline-block;
+}
+
+i{
+    background-color:rgb(78, 78, 191);
+    color: white;
+}
+button{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(78, 78, 191);
+    height: 30px;
+    border: white;
+}
+
+.add{
+    color: white;
+    
+}
+
+
+
+
+
